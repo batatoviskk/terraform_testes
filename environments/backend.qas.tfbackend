@@ -1,0 +1,8 @@
+subscription_id      =  "5f9f8ebf-773c-4d0d-87a9-f7b20e42dba3"   # QAS-BI-Estruturante
+tenant_id            =  "29e081cc-983f-4d52-b1d0-103595213bc6"
+
+resource_group_name  = "rg-gibqas-platform-tfstates"
+storage_account_name = "stteamestruturanteqas" 
+
+
+# end of file #

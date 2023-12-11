@@ -1,0 +1,6 @@
+subscription_id      = "699393db-d8e2-4e81-a315-1162123ca4c7"     #PRD-BI-Estruturante
+tenant_id            = "29e081cc-983f-4d52-b1d0-103595213bc6"
+
+resource_group_name  = "rg-gibprd-platform-tfstates"
+storage_account_name = "stteamestruturanteprd" 
+

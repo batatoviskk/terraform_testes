@@ -1,0 +1,8 @@
+subscription_id      = "c8287b60-d0a7-47d2-8b18-775a2c0a8356" #DEV-BI-Estruturante
+tenant_id            = "29e081cc-983f-4d52-b1d0-103595213bc6"
+
+resource_group_name  = "rg-gibdev-platform-tfstates"
+storage_account_name = "stteamestruturante" # 
+
+
+
